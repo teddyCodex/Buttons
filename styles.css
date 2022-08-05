@@ -36,8 +36,6 @@ button.btn-1 {
     transition: all 0.2s ease-out;
     z-index: 2;
     background-color: #fff;
-}
-button.btn-1:hover {
     transform: translate(-5px, -5px)
 }
 button.btn-1:active {
