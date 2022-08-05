@@ -26,4 +26,9 @@ button.btn-1 {
     font-size: 20px;
     border-radius: .25rem;
     padding: 10px 10px;
+    cursor: pointer;
+}
+
+button.btn-1:hover {
+    transform: translateY(-2deg);
 }
