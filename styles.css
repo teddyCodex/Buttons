@@ -30,6 +30,5 @@ button.btn-1 {
 }
 
 button.btn-1:hover {
-    transform: translateX(-2px);
-    transform: translateY(-2px);
+    transform: translate(-3px, -3px)
 }
