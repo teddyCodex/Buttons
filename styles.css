@@ -19,8 +19,10 @@ button {
 
 /* BUTTON 1 STYLING */
 button.btn-1 {
-    display: block;
-    width: 50px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
     height: 50px;
     font-family: 'Mouse Memoirs', sans-serif;
     font-size: 20px;
