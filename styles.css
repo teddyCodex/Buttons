@@ -18,11 +18,11 @@ button {
     border: 1px black solid;
 }
 
+
+/* BUTTON 1 STYLING */
 section.first-btn {
     position: relative;
 }
-
-/* BUTTON 1 STYLING */
 button.btn-1 {
     position: absolute;
     display: inline-flex;
@@ -37,15 +37,12 @@ button.btn-1 {
     z-index: 2;
     background-color: #fff;
 }
-
 button.btn-1:hover {
     transform: translate(-5px, -5px)
 }
-
 button.btn-1:active {
     transform: unset
 }
-
 .btn-1-div {
     position: absolute;
     width: 24px;
@@ -54,4 +51,11 @@ button.btn-1:active {
     border-radius: .25rem;
     background-color: black;
     z-index: 1;
+}
+section.first-btn p {
+    position: absolute;
+    top: 35px;
+    left: -15px;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 24px;
 }
