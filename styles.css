@@ -22,9 +22,8 @@ button.btn-1 {
     display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 100px;
-    height: 50px;
     font-family: 'Mouse Memoirs', sans-serif;
     font-size: 20px;
-    border-radius: 15px;
+    border-radius: .25rem;
+    padding: 10px 10px;
 }
