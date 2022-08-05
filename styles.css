@@ -9,6 +9,7 @@ html {
     max-width: 900px;
     width: 100%;
     margin: auto;
+    padding-top: 50px;
 }
 
 /* GENERAL RESET */
@@ -27,8 +28,9 @@ button.btn-1 {
     border-radius: .25rem;
     padding: 10px 10px;
     cursor: pointer;
+    transition: transform 0.5s ease;
 }
 
 button.btn-1:hover {
-    transform: translate(-3px, -3px)
+    transform: translate(-5px, -5px)
 }
