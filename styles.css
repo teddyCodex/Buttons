@@ -54,8 +54,8 @@ button.btn-1:active {
 }
 section.first-btn p {
     position: absolute;
-    top: 35px;
-    left: -15px;
+    top: 30px;
+    left: -10px;
     font-family: 'Mouse Memoirs', sans-serif;
     font-size: 24px;
 }
