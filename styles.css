@@ -28,12 +28,12 @@ button.btn-1 {
     border-radius: .25rem;
     padding: 10px 10px;
     cursor: pointer;
-    transition: transform 0.5s ease;
+    transition: all 0.5s ease-out;
 }
 
 button.btn-1:hover {
     transform: translate(-3px, -3px)
 }
 button.btn-1:active {
-    transform: translate(0);
+    transform: translate(3px 3px);
 }
