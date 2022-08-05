@@ -1,1 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Mouse+Memoirs&display=swap');
 
+html {
+    box-sizing: border-box;
+}
+
+/* GENERAL RESET */
+button {
+    all: unset;
+}
+
+/* BUTTON 1 STYLING */
+button.btn-1 {
+    display: block;
+    width: 50px;
+    height: 50px;
+}
