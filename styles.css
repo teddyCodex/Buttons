@@ -32,5 +32,5 @@ button.btn-1 {
 }
 
 button.btn-1:hover {
-    transform: translate(-5px, -5px)
+    transform: translate(4px, 4px)
 }
