@@ -39,7 +39,7 @@ button.btn-1 {
 }
 
 button.btn-1:hover {
-    transform: translate(-3px, -3px)
+    transform: translate(-5px, -5px)
 }
 
 button.btn-1:active {
@@ -51,6 +51,7 @@ button.btn-1:active {
     width: 24px;
     height: 24px;
     padding: 10px;
+    border-radius: .25rem;
     background-color: black;
     z-index: 1;
 }
