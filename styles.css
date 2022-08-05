@@ -34,3 +34,6 @@ button.btn-1 {
 button.btn-1:hover {
     transform: translate(4px, 4px)
 }
+button.btn-1:active {
+    transform: translate(0);
+}
