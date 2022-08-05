@@ -35,5 +35,5 @@ button.btn-1:hover {
     transform: translate(-3px, -3px)
 }
 button.btn-1:active {
-    transform: translate(3px 3px);
+    transform: unset
 }
