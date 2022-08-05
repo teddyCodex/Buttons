@@ -4,9 +4,17 @@ html {
     box-sizing: border-box;
 }
 
+/* CONTAINER STYLING */
+.container {
+    max-width: 900px;
+    width: 100%;
+    margin: auto;
+}
+
 /* GENERAL RESET */
 button {
     all: unset;
+    border: 1px black solid;
 }
 
 /* BUTTON 1 STYLING */
@@ -14,4 +22,7 @@ button.btn-1 {
     display: block;
     width: 50px;
     height: 50px;
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-size: 20px;
+    border-radius: 15px;
 }
